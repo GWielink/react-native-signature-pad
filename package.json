@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DispatcherInc/react-native-signature-pad.git"
+    "url": "git+https://github.com/GWielink/react-native-signature-pad"
   },
   "keywords": [
     "react-native",
